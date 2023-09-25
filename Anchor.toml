@@ -2,13 +2,13 @@
 seeds = false
 skip-lint = false
 [programs.localnet]
-solana_nft_anchor = "29Zvg7ACK6DHG9qEHKQadP16QCxugn6UD2nDo77Dewgn"
+solana_nft_anchor = "9TEtkW972r8AVyRmQzgyMz8GpG7WJxJ2ZUVZnjFNJgWM"
 
 [registry]
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "devnet"
 wallet = "/home/jimii/.config/solana/id.json"
 
 [scripts]
