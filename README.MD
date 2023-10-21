@@ -1,6 +1,6 @@
 # Solana-NFT-Anchor
 
-This project shows how to mint your first NFT on the Solana blockchain using Anchor. This project is based on the [Calyptus Solana Track](calyptus.co)
+This project shows how to mint your first NFT on the Solana blockchain using Anchor and Metaplex. It is based on the [Calyptus Solana Track](calyptus.co)
 
 ## Table of Contents
 - [Installation](#installation)
@@ -11,9 +11,9 @@ This project shows how to mint your first NFT on the Solana blockchain using Anc
 
 ## Installation
 
-It is highly recommended that you start this project from scratch, following along with the [Calyptus Solana Track](calyptus.co). However, if you want to use this project as a starting point, you can clone this repo and run `yarn install` to install all the dependencies.
+It is highly recommended that you start this project from scratch, following along with the [Calyptus Solana Track](calyptus.co). However, if you want to use this project as a starting point, you can fork and clone this repo, then run `yarn install` to install all the dependencies.
 
-**NOTE:** You must use yarn to install the dependencies. If you use a different packange manager, you will run into issues minting the NFT.
+**NOTE:** You must use yarn to install the dependencies. If you use a different package manager, you will run into issues minting the NFT.
 
 ## Common Issues
 
