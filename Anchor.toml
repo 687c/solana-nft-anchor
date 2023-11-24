@@ -10,7 +10,7 @@ url = "https://api.apr.dev"
 
 [provider]
 cluster = "devnet"
-wallet = "/home/jimii/.config/solana/id.json"
+wallet = "<UPDATE HERE>"
 
 [scripts]
 test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
