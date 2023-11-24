@@ -72,7 +72,7 @@ cluster = "devnet"
 wallet = "<UPDATE HERE>"
 ```
 
-For example, I am on Linux and my Solana paper wallet is located at `/home/jimii/.config/solana/id.json`
+For example, I am on my *nix machine, my Solana paper wallet is located at `/home/jimii/.config/solana/id.json`
 
 ## Contributing
 
