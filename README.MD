@@ -64,16 +64,6 @@ pub mod solana_nft_anchor {
     // snip
 ```
 
-7. Update your local paper wallet path in the `Anchor.toml`. 
-
-```bash
-[provider]
-cluster = "devnet"
-wallet = "<UPDATE HERE>"
-```
-
-For example, I am on my *nix machine, my Solana paper wallet is located at `/home/jimii/.config/solana/id.json`
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
